@@ -1,0 +1,49 @@
+<!doctype html>
+	<html>
+		<head>
+			<titel> web page </titel>
+		</head>
+		<body>
+			<Caption>student table</caption>
+			<table border="10"cellpadding="10">
+			<tr>
+				<th>id number</th>
+				<th>  fist name</th>
+				<th> last name</th>
+			 	<th>age</th>
+				<th> phone number</th>			
+				<th> date of brith</th>
+				<th> father name</th>
+			</tr>
+			<tr>
+				<td> 2403040400085</td>
+				<td> Apeksha</td>
+				<td> patel</td>
+				<td> 17</td>
+				<td>9787675543</td>
+				<td>16/5/2007</td>
+                                <td>jitenderbhai patel</td>
+			</tr>
+
+			<tr>
+				<td>2403040400007</td>
+				<td>mahi</td>
+				<td> rajput</td>
+				<td>18</td>
+				<td>94075646643</td>
+				<td>12/7/2006</td>
+				<td>rambhai rajput</td>
+			</tr>
+
+			<tr>
+				<td>2403040400023</td>
+				<td> anushree</td>
+				<td> patel</td>
+				<td>18</td>
+				<td>9989866754</td>
+				<td> 18/11/2007</td>
+				<td>rajbhai</td>
+			</tr>
+      		</table>
+		</body>
+</html>
